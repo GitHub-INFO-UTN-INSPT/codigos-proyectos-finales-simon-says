@@ -1,7 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/lY6sRjHW)
 
 
-
+!!!!!!!!!!!!!!!!!!!!! PARA VER EL CIRCTUITO, CODIGO Y LA SIMULACION INGRESAR A ESTE LINK!!!!!!!!!!!!!!!!!!!!!!!!!!
+>>>>> https://www.tinkercad.com/things/4Nw5dC39tMk-copy-of-juego-de-memoria-robotecs/editel?tenant=circuits <<<<<<
 
 UNIVERSIDAD TECNOLÓGICA NACIONAL 
 INSTITUTO NACIONAL SUPERIOR DEL PROFESORADO TÉCNICO
